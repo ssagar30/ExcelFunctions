@@ -1,1 +1,17 @@
+Shortcut	Description
+CMD/CTRL + Arrow Key	Move to the edge of the current data region
+CMD/CTRL + F	Find a value
+CMD/CTRL + G	Go to a specific cell
+These shortcuts will only work if your mouse is within the Excel widget.
+
+Exact function
+=EXACT(value1, value2)
+Returns true or false if values match or not
+
+Trim function
+=TRIM(value)
+=TRIM(A2)
+The function TRIM is extremely useful because it removes any extra spaces at the beginning and end of the cell value. Please note it won't change any spaces within the cell content.
+
+=SORT(array, [sort_index], [sort_order])
 
